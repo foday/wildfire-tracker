@@ -1,10 +1,11 @@
-
+import Map from './components/Map'
 import './App.css';
 
 function App() {
   return (
     <div>
-      <h1>Hello Github</h1>
+      <Map />
+     
     </div>
   );
 }
